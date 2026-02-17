@@ -1,4 +1,4 @@
-package main.java.com.example.taskmanager.entity;
+package com.example.taskmanager.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
