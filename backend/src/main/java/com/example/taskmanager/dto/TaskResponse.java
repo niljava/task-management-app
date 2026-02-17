@@ -1,4 +1,4 @@
-package main.java.com.example.taskmanager.dto;
+package com.example.taskmanager.dto;
 
 import lombok.Builder;
 import lombok.Data;
