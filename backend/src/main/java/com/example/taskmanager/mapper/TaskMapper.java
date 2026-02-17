@@ -1,4 +1,4 @@
-package com.example.taskmanager.mapper;
+package main.java.com.example.taskmanager.mapper;
 
 import com.example.taskmanager.dto.TaskRequest;
 import com.example.taskmanager.dto.TaskResponse;
