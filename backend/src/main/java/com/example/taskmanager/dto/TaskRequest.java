@@ -1,4 +1,5 @@
-package com.example.taskmanager.dto;
+package main.java.com.example.taskmanager.dto;
+
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
